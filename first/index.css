@@ -1,0 +1,29 @@
+
+
+.header {
+        height: 100px;
+        width: 1000px;
+        background-color: gray;
+    }
+    
+    .content-left {
+        height:600px;
+        width:100px;
+        background-color: lightgrey;
+        display: inline-block;
+    }
+    
+    .content-right {
+        height: 600px;
+        width: 100px;
+        background-color: lightgray;
+        float: right; 
+        margin-right: 520px;
+    }
+    
+    .content-bottom {
+        height:100px;
+        width: 43%;
+        background-color: black;
+        display: inline-flex;
+    }
